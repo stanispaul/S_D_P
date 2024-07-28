@@ -1,0 +1,25 @@
+/* src/components/Sidebar.css */
+.sidebar {
+    width: 200px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-right: 1px solid #ddd;
+  }
+  
+  .sidebar h3 {
+    margin-top: 0;
+  }
+  
+  .filter-group {
+    margin-bottom: 20px;
+  }
+  
+  .filter-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .filter-group input {
+    margin-right: 10px;
+  }
+  
